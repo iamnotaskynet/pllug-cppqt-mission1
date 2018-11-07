@@ -1,7 +1,7 @@
 # pllug-cppqt-mission1
 Just a window with label
 
-![window](/pllug-cppqt-mission1/mission1.png "Simple window")
+![window](/mission1.png "Simple window")
 
 ##Versions
 Qt Crearor 4.7.2
